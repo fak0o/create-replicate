@@ -1,0 +1,9 @@
+{
+  "image": "[![photo-2024-10-16-17-19-01.jpg](https://i.postimg.cc/3xjMhY6m/photo-2024-10-16-17-19-01.jpg)](https://postimg.cc/NK0C7qQj)",
+  "style": "video game",
+  "prompt": "blood, a knife, mushrooms with eyes, an abandoned mental hospital, horror",
+  "negative_prompt": "boring",
+  "prompt_strength": 4.5,
+  "denoising_strength": 1,
+  "instant_id_strength": 0.8
+}
